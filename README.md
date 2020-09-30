@@ -103,29 +103,21 @@ print(rolls_PP4)
 rolls_PP4
  1  2  3  4  5  6 
 81 86 83 85 95 70
-
+````
 We rolled the dice 30 times and got 70 6's.
-
+````
 standard deviation 𝜎=[𝑁𝑝(1−𝑝)]^(1/2)=(500*1/6*5/6)^(1/2)=69.44
 variance= (69.44)^2= 4281.91
-
-Chi Square Test:
-
-> chisq.test(table(rolls_PP4
-+ ))
-
-	Chi-squared test for given probabilities
-
-data:  table(rolls_PP4)
-X-squared = 5.776, df = 5, p-value = 0.3286
+`````
 
 After Performing a Chi Square Test with five degrees of freedom and a 90 percent confidence interval we can conclude from the 
 data that the odds of getting a 6 from a dice thrown 500 times is 83 or a 16.6 percent chance of getting a 6. When we conducted our Chi Test 
 we had a p-value of .3285. Our P-value is greater than our a=value , our .1 confidence interval, therefore we fail to reject the Null Hypothesis which confirms our 
-expierment protocal that volume or a higher number of throws will allow an individual to determine if a dice is loaded or not. 
+expierment protocal that higher volume or a higher number of throws will allow an individual to determine if a dice is loaded or not. 
 
+````
 
-•	As a group we decided to take the volume approach to this problem, we expect at while the random nature of a dice roll may deviate the resulting rolls in 6 away from the “fair” 1/6 proportion, with a higher volume of rolls we should be able to equal out the resulting proportion to nearly fair. Therefore, we decide to further the rolls to 500 total rolls with an expected 50 rolls resulting in a 6.
-•	H = 50, H ≠ 50
+As a group we decided to take the volume approach to this problem, we expect at while the random nature of a dice roll may deviate the resulting rolls in 6 away from the “fair” 1/6 proportion, with a higher volume of rolls we should be able to equal out the resulting proportion to nearly fair. Therefore, we decide to further the rolls to 500 total rolls with an expected 50 rolls resulting in a 6.
+````
 
 
