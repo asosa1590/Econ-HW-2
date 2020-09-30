@@ -26,12 +26,14 @@ rolls results from throws
 
 > table(rolls)
 rolls
+
 `````
 rolls_PP2
 1 2 3 4 5 6 
 6 6 4 2 5 7
 ``````
- dbinom(1, size=30, prob=.5)
+
+dbinom(1, size=30, prob=.5)
 [1] 2.793968e-08
 > dbinom(2, size=30, prob=.5)
 [1] 4.051253e-07
@@ -49,22 +51,27 @@ rolls_PP3<-sample(1:6,100,rep=T)
  [25] 6 5 2 2 2 1 4 4 4 2 5 2 3 4 2 3 2 6 3 6 1 2 4 5
  [49] 2 1 5 6 3 2 2 3 2 3 5 6 4 1 4 5 5 5 6 3 5 1 4 1
  [73] 6 6 2 3 3 1 5 4 1 3 4 3 5 2 1 1 3 5 2 6 6 6 3 4
- [97] 3 4 3 2
+[97] 3 4 3 2
 
+````
 Frequency of each roll 
  1  2  3  4  5  6 
 13 22 11 15 15 24
-
+````
 > dbinom(1, size=100, prob=.5)
 [1] 7.888609e-29
+````
 > dbinom(2, size=100, prob=.5)
 [1] 3.904861e-27
+````
 > dbinom(3, size=100, prob=.5)
 [1] 1.275588e-25
-
+```
 > summary(rolls_PP3)
    Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
    1.00    2.00    3.00    3.39    5.00    6.00 
+`````
+
 We rolled the dice 100 times and got 24 6's. 
 
 standard deviation 𝜎=[𝑁𝑝(1−𝑝)]^(1/2)=(100*1/6*5/6)^(1/2)=13.89
