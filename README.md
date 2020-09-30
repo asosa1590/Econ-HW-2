@@ -1,5 +1,6 @@
 # Econ-HW-2
-PP1 (Please see attached Corresponding Graphs for throws 10, 100 and 500)
+PP1 (Please see attached Corresponding Graphs for throws 30, 100 and 500)
+
 If the dice were fair, the probability of getting a 6 is E(6)=1/6
  
 If the dice were unfair, E(1,2,3,4,5)=5/6
