@@ -1,5 +1,5 @@
 # Econ-HW-2
-PP1
+PP1 (Please see attached Corresponding Graphs for throws 10, 100 and 500)
 If the dice were fair, the probability of getting a 6 is E(6)=1/6
  
 If the dice were unfair, E(1,2,3,4,5)=5/6
@@ -16,6 +16,8 @@ Conclusions for PP1
 •The dice would be judged unfair if it rolled a 6, therefore the probability is 1/6 or 0.167
 
 •	The dice would be judged fair if it rolled any number besides 6, therefore the probability is 5/6 or 0.833
+
+
 
 
 PP2
