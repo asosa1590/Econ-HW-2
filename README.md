@@ -109,7 +109,7 @@ We rolled the dice 30 times and got 70 6's.
 standard deviation 𝜎=[𝑁𝑝(1−𝑝)]^(1/2)=(500*1/6*5/6)^(1/2)=69.44
 variance= (69.44)^2= 4281.91
 
-•	As a group we decided to take the volume approach to this problem, we expect that while the random nature of a dice roll may deviate the resulting rolls in 6 away from the “fair” 1/6 proportion, with a higher volume of rolls we should be able to equal out the resulting proportion to nearly fair. Therefore, we decide to further the rolls to 300 total rolls with an expected 50 rolls resulting in a 6.
+•	As a group we decided to take the volume approach to this problem, we expect that while the random nature of a dice roll may deviate the resulting rolls in 6 away from the “fair” 1/6 proportion, with a higher volume of rolls we should be able to equal out the resulting proportion to nearly fair. Therefore, we decide to further the rolls to 500 total rolls with an expected 50 rolls resulting in a 6.
 •	H = 50, H ≠ 50
 
 
