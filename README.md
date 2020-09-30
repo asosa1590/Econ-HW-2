@@ -5,21 +5,28 @@ If the dice were fair, the probability of getting a 6 is E(6)=1/6
 If the dice were unfair, E(1,2,3,4,5)=5/6
 
 results from throws:
-
+``````
 rolls_PP1
 1 
 1 
+`````
 
 Conclusions for PP1
-•	The dice would be judged unfair if it rolled a 6, therefore the probability is 1/6 or 0.167
+
+•The dice would be judged unfair if it rolled a 6, therefore the probability is 1/6 or 0.167
+
 •	The dice would be judged fair if it rolled any number besides 6, therefore the probability is 5/6 or 0.833
 
 
 PP2
-•	Rolling a fair dice a total of 30 times should produce 5 rolls resulting in 6.
+Rolling a fair dice a total of 30 times should produce 5 rolls resulting in 6.
+
 •	Given a fair dice, the probability of getting 1 more or less roll would be (4/5 + 1/25) = 0.84
+
 •	Given a fair dice, the probability of getting 2 more or less roll would be (3/5 + 2/25) = 0.68
+
 •	Given a fair dice, the probability of getting 3 more or less roll would be (2/5 + 3/25) = 0.52
+
 •	If the dice is unfair, then the probabilities can vary indefinitely
 
 rolls results from throws
